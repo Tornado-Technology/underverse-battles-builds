@@ -1,6 +1,6 @@
 <div align="center">
 
-# UnderverseBattles `Builds`
+# UnderverseBattles Builds
 
 </div>
 
